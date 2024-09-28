@@ -1,4 +1,4 @@
-FROM python:3.8.2-slim
+FROM python:3.13.0rc2-slim
 
 WORKDIR /cosmos-discord-bot
 
